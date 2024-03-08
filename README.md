@@ -12,9 +12,10 @@ This is a simple and clean text editor powered by PWA's!
 
 
 ## Links
-[GitHub URL](https://github.com/DaymenPasick/PWA-text-edits)
+- Here's a link to my GitHub if you'd like to check out other projects: [GitHub URL](https://github.com/DaymenPasick/PWA-text-edits)
 
-[Deployed Application](https://fierce-island-41242-1b48dd9f1336.herokuapp.com/)
+
+- Check out the site live and in action:  [Deployed Application](https://fierce-island-41242-1b48dd9f1336.herokuapp.com/)
 
 
 ## License
