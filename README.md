@@ -1,5 +1,5 @@
 # PWA-text-edits
-A text editor using PWA
+
 
 ## Description
 This is a simple and clean text editor powered by PWA's!
